@@ -21,6 +21,7 @@
     - [Install](#install)
     - [Usage](#usage)
   - [👥 Author ](#-author-)
+  - [👥 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
@@ -100,6 +101,14 @@ To run the project, execute the following command:
 - GitHub: [@limavfabio](https://github.com/limavfabio)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Edit you account details]**
+- [ ] **[Website wide search]**
+- [ ] **[Settings page]**
 
 <!-- CONTRIBUTING -->
 
