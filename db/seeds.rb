@@ -1,7 +1,7 @@
 greetings = [
   'Hello',
   'Hi there',
-  'Greetings',
+  'Greetings fellow developer',
   'Salutations',
   'Good day'
 ]
